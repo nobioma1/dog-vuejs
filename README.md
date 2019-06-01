@@ -1,29 +1,8 @@
 # dog-vuejs
+> My first VueJs app
+
+- View Random images and Breeds from DogApi
 
 ## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Clone repo and run ```yarn install``` to install dependencies.
+- Run ```yarn run serve``` to serve app

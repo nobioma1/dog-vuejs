@@ -9,7 +9,7 @@
       v-bind:randDog="randomDog"
       v-bind:isLoading="isLoading"
     />
-  <Footer />
+    <Footer />
   </div>
 </template>
 
